@@ -28,10 +28,10 @@
   }
 }
 
-#cube .front  { transform: rotateY(   0deg ) translateZ( 50vw ); background: #990005; }
+#cube .front  { transform: rotateY(   0deg ) translateZ( 50vw ); }
 #cube .back   { transform: rotateY( 180deg ) translateZ( 50vw ); background: gold;}
 #cube .right  { transform: rotateY(  90deg ) translateZ( 50vw ); background: dodgerblue;}
-#cube .left   { transform: rotateY( -90deg ) translateZ( 50vw ); }
+#cube .left   { transform: rotateY( -90deg ) translateZ( 50vw ); background: cadetblue; }
 #cube .top    { transform: rotateX(  90deg ) translateZ( 50vw ); background: mintgreen; }
 #cube .bottom { transform: rotateX( -90deg ) translateZ( 50vw ); background: lavender; }
 

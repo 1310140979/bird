@@ -30,7 +30,6 @@
 
 #cube .front {
   transform: rotateY(0deg) translateZ(50vw);
-  background: #990005;
 }
 
 #cube .back {
@@ -45,7 +44,7 @@
 
 #cube .left {
   transform: rotateY(-90deg) translateZ(50vw);
-
+  background: cadetblue;
 }
 
 #cube .top {
