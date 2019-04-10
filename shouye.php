@@ -260,7 +260,7 @@ color:#ccc;
 		
 			<section class="cube-container">
 					<div class="log">
-							<a href="./login.html">登录</a>
+							<a href="./login.html">欢迎你，<?php echo $_POST['name']; ?></a>
 						</div>
 			  <div id="cube">
 						
